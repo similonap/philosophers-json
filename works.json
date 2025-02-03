@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "title": "Socratische Dialogen",
+    "published": false,
+    "description": "Gesprekken opgeschreven door Plato waarin Socrates zijn filosofische ideeën uiteenzet."
+  },
+  {
+    "id": 102,
+    "title": "De Staat",
+    "published": true,
+    "description": "Een dialoog waarin Plato zijn ideale samenleving schetst."
+  },
+  {
+    "id": 103,
+    "title": "Metafysica",
+    "published": true,
+    "description": "Een diepgaande analyse over de fundamentele aard van de werkelijkheid."
+  },
+  {
+    "id": 104,
+    "title": "Discours de la méthode",
+    "published": true,
+    "description": "Een filosofisch essay waarin Descartes zijn methode voor kennisverwerving beschrijft."
+  },
+  {
+    "id": 105,
+    "title": "Kritiek van de zuivere rede",
+    "published": true,
+    "description": "Een onderzoek naar de fundamenten van kennis en ervaring."
+  }
+]
