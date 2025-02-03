@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Socrates",
+    "description": "Een klassieke Griekse filosoof, bekend om zijn socratische methode en ethische vraagstukken.",
+    "age": 70,
+    "active": false,
+    "birthdate": "-0470-06-01",
+    "image": "https://example.com/images/socrates.jpg",
+    "school": "klassiek",
+    "hobbies": ["Filosofie", "Vragen stellen", "Wandelen door Athene"],
+    "works": {
+      "id": 101,
+      "title": "Socratische Dialogen",
+      "published": false,
+      "description": "Gesprekken opgeschreven door Plato waarin Socrates zijn filosofische ideeën uiteenzet."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Plato",
+    "description": "Student van Socrates en leraar van Aristoteles, beroemd om zijn theorie van de Ideeën.",
+    "age": 80,
+    "active": false,
+    "birthdate": "-0427-05-21",
+    "image": "https://example.com/images/plato.jpg",
+    "school": "idealisme",
+    "hobbies": ["Schrijven", "Lesgeven", "Academie oprichten"],
+    "works": {
+      "id": 102,
+      "title": "De Staat",
+      "published": true,
+      "description": "Een dialoog waarin Plato zijn ideale samenleving schetst."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Aristoteles",
+    "description": "Een van de invloedrijkste filosofen ooit, bekend om zijn werken over logica, ethiek en wetenschap.",
+    "age": 62,
+    "active": false,
+    "birthdate": "-0384-07-01",
+    "image": "https://example.com/images/aristoteles.jpg",
+    "school": "empirisme",
+    "hobbies": ["Onderzoek", "Schrijven", "Leren"],
+    "works": {
+      "id": 103,
+      "title": "Metafysica",
+      "published": true,
+      "description": "Een diepgaande analyse over de fundamentele aard van de werkelijkheid."
+    }
+  },
+  {
+    "id": 4,
+    "name": "René Descartes",
+    "description": "Franse filosoof en wiskundige, beroemd om zijn uitspraak 'Cogito, ergo sum'.",
+    "age": 53,
+    "active": false,
+    "birthdate": "1596-03-31",
+    "image": "https://example.com/images/descartes.jpg",
+    "school": "rationalisme",
+    "hobbies": ["Wiskunde", "Filosofie", "Schrijven"],
+    "works": {
+      "id": 104,
+      "title": "Discours de la méthode",
+      "published": true,
+      "description": "Een filosofisch essay waarin Descartes zijn methode voor kennisverwerving beschrijft."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Immanuel Kant",
+    "description": "Duitse filosoof die de grenzen van menselijke kennis onderzocht.",
+    "age": 79,
+    "active": false,
+    "birthdate": "1724-04-22",
+    "image": "https://example.com/images/kant.jpg",
+    "school": "kritisch idealisme",
+    "hobbies": ["Wandelen", "Lesgeven", "Filosofie"],
+    "works": {
+      "id": 105,
+      "title": "Kritiek van de zuivere rede",
+      "published": true,
+      "description": "Een onderzoek naar de fundamenten van kennis en ervaring."
+    }
+  }
+]
