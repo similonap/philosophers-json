@@ -6,7 +6,7 @@
     "age": 70,
     "active": false,
     "birthdate": "-0470-06-01",
-    "image": "https://example.com/images/socrates.jpg",
+    "image": "https://raw.githubusercontent.com/similonap/philosophers-json/refs/heads/main/DALL%C2%B7E%202025-02-03%2015.01.19%20-%20A%20realistic%20digital%20painting%20of%20Socrates%2C%20the%20ancient%20Greek%20philosopher.%20He%20is%20depicted%20as%20an%20elderly%20man%20with%20a%20thick%20beard%20and%20deep-set%20eyes%2C%20wearin.webp",
     "school": "klassiek",
     "hobbies": ["Filosofie", "Vragen stellen", "Wandelen door Athene"],
     "works": {
